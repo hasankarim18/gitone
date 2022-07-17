@@ -1,2 +1,6 @@
 two
+<<<<<<< HEAD
 another
+=======
+another two
+>>>>>>> main
