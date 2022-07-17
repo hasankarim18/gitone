@@ -1,8 +1,14 @@
 two
 <<<<<<< HEAD
 another
-=======
-another two
->>>>>>> main
 
+
+
+another two
+
+
+
+<<<<<<< HEAD
 55
+dui
+
